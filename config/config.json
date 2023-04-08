@@ -1,0 +1,16 @@
+{
+  "mgl": {
+    "username": "kitpay",
+    "password": "Ven@Mg$sQ!384!",
+    "database": "MGLWEB",
+    "host": "115.242.13.135",
+    "dialect": "mssql"
+  },
+  "ecopost": {
+    "username": "rahul",
+    "password": "mgl@123",
+    "database": "mgl",
+    "host": "185.247.116.223",
+    "dialect": "mysql"
+  }
+}
